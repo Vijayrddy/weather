@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Quiet Weather",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "heartbeat": "/components/heartbeat/heartbeat",
+    "privacy": "/components/privacy/privacy"
+  }
+}
